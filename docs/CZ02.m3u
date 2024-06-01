@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://i.imgur.com/Il7t0bU.png" group-title="Czechia 02",CNN Prima News
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="Prima.cz" tvg-logo="https://i.imgur.com/0aHT2Nj.png" group-title="Czechia 02",Prima [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-logo="https://i.imgur.com/zuzBucZ.png" group-title="Czechia 02",Prima Zoom [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-logo="https://i.imgur.com/TOCZc3Y.png" group-title="Czechia 02",Prima Love [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-logo="https://i.imgur.com/tQGwvNs.png" group-title="Czechia 02",Prima STAR [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-logo="https://i.imgur.com/Dn2YxrA.png" group-title="Czechia 02",Prima Krimi [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-logo="https://i.imgur.com/QaEakvm.png" group-title="Czechia 02",Prima MAX [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-logo="https://i.imgur.com/JMHWmcJ.png" group-title="Czechia 02",Prima Cool [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-logo="https://i.imgur.com/zX4NTJ5.png" group-title="Czechia 02",Prima Show [G]
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0

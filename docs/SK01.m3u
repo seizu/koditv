@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Slovakia 01",Jednotka [G]
+https://sktv-forwarders.7m.pl/get.php?x=STV1
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Slovakia 01",Dvojka [G]
+https://sktv-forwarders.7m.pl/get.php?x=STV2
+#EXTINF:-1 tvg-id="STV_24.sk" tvg-logo="https://i.imgur.com/sdSsFU0.png" group-title="Slovakia 01",24
+https://sktv-forwarders.7m.pl/get.php?x=STV24
+#EXTINF:-1 tvg-id="Sport.sk" tvg-logo="https://i.imgur.com/YzHipRF.png" group-title="Slovakia 01",RTVS Šport [G]
+https://sktv-forwarders.7m.pl/get.php?x=SPORT
+#EXTINF:-1 tvg-id="RTV.sk" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia 01",RTV [G]
+https://sktv-forwarders.7m.pl/get.php?x=STV-O
+#EXTINF:-1 tvg-id="TVNRSR.sk" tvg-logo="https://i.imgur.com/sPDiS5q.png" group-title="Slovakia 01",NR SR
+https://sktv-forwarders.7m.pl/get.php?x=NR_SR
+#EXTINF:-1 tvg-id="JOJ.sk" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Slovakia 01",JOJ
+https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Slovakia 01",JOJ Plus
+https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
+#EXTINF:-1 tvg-id="Wau.sk" tvg-logo="https://i.imgur.com/wO5ifff.png" group-title="Slovakia 01",WAU
+https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/owEVXRE.png" group-title="Slovakia 01",JOJ 24
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Slovakia 01",JOJ Šport
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-logo="https://i.imgur.com/W82dwzf.png" group-title="Slovakia 01",Senzi
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TA3.sk" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Slovakia 01",TA3
+https://sktv-forwarders.7m.pl/get.php?x=TA3

@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-logo="https://i.imgur.com/6W637Gn.png" group-title="Austria 01",ServusTV (1080p) [G]
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+#EXTINF:-1 tvg-name="oe24 TV" tvg-id="OE24TV.at" group-title="Austria 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oe24TV_Logo_2016.svg/220px-Oe24TV_Logo_2016.svg.png",OE24 TV
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+#EXTINF:-1 tvg-id="W24.at" tvg-logo="https://i.imgur.com/FpVNrxk.png" group-title="Austria 01",W24 (720p)
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/RTV_OOE_Logo.png/300px-RTV_OOE_Logo.png" group-title="Austria 01",RTV (1080p)
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="OKTO.at" tvg-logo="https://i.imgur.com/9XfhgbS.png" group-title="Austria 01",Okto TV (1080p)
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="R9Osterreich.at" tvg-logo="https://i.imgur.com/SVJiXxh.png" group-title="Austria 01",R9 (720p)
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-logo="https://i.imgur.com/74gMaPK.png" group-title="Austria 01",FS1 Salzburg (720p)
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="LandleTV.at" tvg-logo="https://i.imgur.com/omLVQ4r.png" group-title="Austria 01",Ländle TV (1080p)
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Austria 01",Schladming-Dachstein TV (720p) [G]
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at" tvg-logo="https://i.imgur.com/KbMkEIn.png" group-title="Austria 01",TV 1 Oberösterreich (1080p)
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 tvg-id="ATV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ATV.svg/300px-ATV.svg.png" group-title="Austria 01",ATV HD [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE&title=[B]ATV HD[/B]
+#EXTINF:-1 tvg-id="ATV2.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_ATV2.svg/300px-Logo_ATV2.svg.png" group-title="Austria 01",ATV2 [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=atv2&stream_type=LIVE&title=[B]ATV 2[/B]
+#EXTINF:-1 tvg-id="Puls4.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Puls4.svg/300px-Puls4.svg.png" group-title="Austria 01",PULS4 [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=puls4-at&stream_type=LIVE&title=[B]PULS 4[/B]
+#EXTINF:-1 tvg-id="Puls24.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Puls_24_Logo_2019.svg/300px-Puls_24_Logo_2019.svg.png" group-title="Austria 01",PULS24 [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=puls24-at-hd&stream_type=LIVE&title=[B]PULS 24 HD[/B]
+#EXTINF:-1 tvg-id="Pro7.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/250px-ProSieben_Logo_2015.svg.png" group-title="Austria 01",PRO7 [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=prosieben-at&stream_type=LIVE&title=[B]ProSieben[/B]
+#EXTINF:-1 tvg-id="Sat1.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/250px-Neues_Sat._1_Logo_transparent.png" group-title="Austria 01",SAT1 [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=sat1-at&stream_type=LIVE&title=[B]SAT.1[/B]
+#EXTINF:-1 tvg-id="Kabel1.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/300px-Kabel_eins_Logo_2015.svg.png" group-title="Austria 01",Kabel Eins [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=kabeleins-at&stream_type=LIVE&title=[B]Kabel Eins[/B]
+#EXTINF:-1 tvg-id="SixxAustria.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/300px-Sixx_Logo.svg.png" group-title="Austria 01",SIXX [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=sixx-at&stream_type=LIVE&title=[B]sixx[/B]
+#EXTINF:-1 tvg-id="pro7maxx.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/300px-ProSieben_MAXX_Logo.svg.png" group-title="Austria 01",PRO7MAXX [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=prosiebenmaxx-at&stream_type=LIVE&title=[B]ProSieben MAXX[/B]
+#EXTINF:-1 tvg-id="sat1gold.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/300px-SAT.1_Gold_2019.svg.png" group-title="Austria 01",SAT1 GOLD [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=sat1gold-at&stream_type=LIVE&title=[B]SAT.1 Gold[/B]
+#EXTINF:-1 tvg-id="kabel1doku.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/300px-Kabel_eins_Doku_Logo_2016.svg.png" group-title="Austria 01",Kabel Eins Doku [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=kabeleinsdoku-at&stream_type=LIVE&title=[B]Kabel Eins Doku[/B]
+#EXTINF:-1 tvg-id="parlamenttv.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_Austrian_Parliament_2023.svg/300px-Logo_Austrian_Parliament_2023.svg.png" group-title="Austria 01",Parlament TV [JOYN]
+plugin://plugin.video.joyn/?mode=play_video&video_id=parlamenttv-nationalrat-at&stream_type=LIVE&title=[B]Parlament TV[/B]
+#EXTINF:-1 tvg-id="DorfTV.at" tvg-logo="https://i.imgur.com/L0q19NR.png" group-title="Austria 01",Dorf TV (576p)
+https://stream.openplayout.org/hls/dorftv/live.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.at" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f3784a1e-9ecb-4894-afdc-934a3ad6b235-actionfilme-rakuten-tv-1646655474-width400-quality90.png" group-title="Austria 01",Rakuten TV Action Movies Austria (720p)
+https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.at" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1ef2b59a-9dce-42f5-bdb3-acf0b66f5d8b-width400-quality90.png" group-title="Austria 01",Rakuten TV Comedy Movies Austria (720p)
+https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.at" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/b5059954-1412-4432-aa61-f36dbac41ad1-drama-filme-rakuten-tv-1646657003-width400-quality90.png" group-title="Austria 01",Rakuten TV Drama Movies Austria (720p)
+https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.at" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2438717c-3580-40ac-b2c1-f4e396c3cbd7-width400-quality90.png" group-title="Austria 01",Rakuten TV Family Movies Austria (720p)
+https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
+#EXTINF:-1 tvg-id="HitradioOE3.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/512px-Hitradio_%C3%963.svg.png" group-title="Austria 01",Hitradio Ö3 (720p)
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF:-1 tvg-id="K19.at" tvg-logo="https://i.imgur.com/l4atkvs.png" group-title="Austria 01",K19
+https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.at" tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="Austria 01",K-TV (720p)
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="KroneHit.at" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="Austria 01",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.at" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Austria 01",Nick Germany (1080p) [G]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Austria 01",Peer TV Südtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="Pro7.at" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Austria 01",ProSieben (576p) [G]
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-id="ARCADIAWorld.at" tvg-logo="https://at.arcadiatelevision.com/at/assets/img/ArcadiaTY-YouTube-Logo.png" group-title="Austria 01",ARCADIA World [Y]
+plugin://plugin.video.youtube/play/?video_id=CtujmQiQXeI

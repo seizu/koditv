@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CT1.cz" tvg-logo="https://i.imgur.com/qBlEbN3.png" group-title="Czechia 01",ČT1 [G]
+https://sktv-forwarders.7m.pl/get.php?x=CT1
+#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="https://i.imgur.com/HpnGC6A.png" group-title="Czechia 01",ČT2 [G]
+https://sktv-forwarders.7m.pl/get.php?x=CT2
+#EXTINF:-1 tvg-id="24.cz" tvg-logo="https://i.imgur.com/pUMRFs1.png" group-title="Czechia 01",ČT24
+https://sktv-forwarders.7m.pl/get.php?x=CT24
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Czechia 01",ČT sport [G]
+https://sktv-forwarders.7m.pl/get.php?x=CTsport
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-logo="https://i.imgur.com/Pa5rLpA.png" group-title="Czechia 01",ČT :D
+https://sktv-forwarders.7m.pl/get.php?x=CT_D
+#EXTINF:-1 tvg-id="CTart.cz" tvg-logo="https://i.imgur.com/u8mfETB.png" group-title="Czechia 01",ČT art
+https://sktv-forwarders.7m.pl/get.php?x=CTart
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5JiMynW.png" group-title="Czechia 01",ČT sport Plus [G]
+https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus
+#EXTINF:-1 tvg-id="JojFamily.sk" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czechia 01",JOJ Family
+https://live.cdn.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="SlagrOriginal.cz" tvg-logo="https://i.imgur.com/fQcx9S2.png" group-title="Czechia 01",Šlágr Originál
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1 tvg-id="SlagrMuzika.cz" tvg-logo="https://i.imgur.com/J9YHDVS.png" group-title="Czechia 01",Šlágr Muzika
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1 tvg-id="SlagrPremium.cz" tvg-logo="https://i.imgur.com/Lp0IqDx.png" group-title="Czechia 01",Šlágr Premium
+https://stream-15.mazana.tv/slagrpremium.m3u
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://i.imgur.com/iPmpsnN.png" group-title="Czechia 01",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-logo="https://i.imgur.com/tGzQFWw.png" group-title="Czechia 01",Óčko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoExpress.cz" tvg-logo="https://i.imgur.com/e731JNS.png" group-title="Czechia 01",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/a6S2Yo4.png" group-title="Czechia 01",Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9P7ZyFu.png" group-title="Czechia 01",TN Live
+https://sktv-forwarders.7m.pl/get.php?x=NovaTNLive
+#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png" group-title="Czechia 01",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8

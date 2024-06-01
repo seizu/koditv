@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Lilo.TV" tvg-id="Lilo.tv.de" group-title="Germany 02" tvg-logo="https://www.bremische-landesmedienanstalt.de/uploads/styles/large/public/teaser/logo_lilo_tv.jpg",Lilo.TV
+https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
+#EXTINF:-1 tvg-id="SonnenKlar.de" tvg-logo="https://i.imgur.com/g4QeXwF.png" group-title="Germany 02",Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="Germany 02",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-name="Rockland TV" tvg-id="Rockland.de" group-title="Germany 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rockland_Radio_Logo_2023.svg/300px-Rockland_Radio_Logo_2023.svg.png",Rockland TV
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Germany 02" tvg-logo="https://i.imgur.com/WsXK6WH.png",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="Germany 02" tvg-logo="https://i.imgur.com/aL3klax.png",EWTN katholisches TV
+https://1775071782.rsc.cdn77.org/1775071782/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-logo="https://i.imgur.com/JN6Kd0q.png" group-title="Germany 02",Deluxe Lounge HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:-1 tvg-name="DELUXE MUSIC ROCK" tvg-id="DeluxeRock.de" group-title="Germany 02" tvg-logo="https://i.imgur.com/GcziNKR.png",DELUXE MUSIC ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeFlashback.de" tvg-logo="https://i.imgur.com/EjZa6eK.png" group-title="Germany 02",Deluxe Flashback (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="Germany 02",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Germany 02",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Germany 02" tvg-logo="https://i.imgur.com/FRgsWFR.png",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
